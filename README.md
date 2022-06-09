@@ -2,11 +2,6 @@
 
 Credit Card Processing
 
-**Date assigned:** Wednesday, October 6, 2021
-
-**Program due:** Monday, October 18, 2021, \[9:15AM Sect 02; 1:00PM Sect
-01\]
-
 **Points**: 35
 
 **Goals:**
@@ -132,6 +127,17 @@ Amount starts in column 37. The transaction name will not be longer than
     b.  The pdf must be in the drop folder on Moodle by the time and day
         specified above. Anything submitted after that will be
         considered late.
+        
+## NOTES:
+
+1) You need to create the data file creditcard.txt and carefully test 
+   your program with many variations of data in the file. After testing, 
+   push your final solution using the sample data file listed on the first page.
+
+2) You will need to research how to left align output using setw.
+
+3) If the data file only contains the sentinel value then output the heading 
+   followed by the summary statistics where each value will be zero.
 
 **IMPORTANT:** This is not a last minute assignment. There is a reason
 you have 12 days to complete this assignment. If you start this
